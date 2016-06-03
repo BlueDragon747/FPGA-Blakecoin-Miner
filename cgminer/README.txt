@@ -13,8 +13,8 @@ files as necessary. Build as normal (this probably only works on linux as
 windows build is more complicated, I'll try to produce windows binaries at
 some point in the future).
 
-Windows binary 3.1.1 at https://www.dropbox.com/s/f34zwu3oek0rj4m/cgminer.exe
-Dependancies (DLL) at https://www.dropbox.com/s/xa01f9hhakpsexv/cgminer-3.1.1-blakefpga.zip
+Windows binary 3.1.1 at https://blakecoin.org/cgminer.exe
+Dependancies (DLL) at https://blakecoin.org/cgminer-3.1.1-blakefpga.zip
 To use, unzip the dependancies then move cgminer.exe into the folder.
 Copy the bitstream folder from an official cgminer-3.1.1 distribution.
 Replace ztex_ufm1_15y1.bit with the BlakeCoin bitstream.
